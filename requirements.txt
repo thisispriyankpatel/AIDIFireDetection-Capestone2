@@ -1,0 +1,4 @@
+# To install the modules type this in terminal "pip install -r requirements.txt".
+flask
+flask_sqlalchemy
+flask_login
